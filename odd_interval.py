@@ -4,5 +4,4 @@ def display():
     for i in range(min,max+1):
         if(i % 2 != 0):
             print(i)
-if __name__ == '__main__':
-    display()
+display()
